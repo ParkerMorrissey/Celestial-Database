@@ -1147,3 +1147,7 @@ git init
 git add .
 git commit -an "another commit"
 git commit -am "another commit"
+git remote add origin https://github.com/ParkerMorrissey/Celestial-Database.git
+git remote -v
+git push origin master
+git push origin main
